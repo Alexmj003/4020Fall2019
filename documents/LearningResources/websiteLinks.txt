@@ -6,3 +6,5 @@ Python Learning Resources
 Directory Structure
 - https://www.westga.edu/its/assets-its/docs/understanding_directory_structure_windows.pdf - Windows Directory structure
 - https://macpaw.com/how-to/use-terminal-on-mac - mac terminal commands
+Git Hub
+- https://www.git-tower.com/learn/git/commands/git-commit - git commands
