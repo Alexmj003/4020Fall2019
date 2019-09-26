@@ -3,8 +3,13 @@ Python Learning Resources
     - https://www.guru99.com/reading-and-writing-files-in-python.html - python file handling
     - https://numpy.org/devdocs/user/index.html - numpy documentation
     - https://pandas.pydata.org/pandas-docs/stable/ = pandas documentation
+    - https://www.geeksforgeeks.org/import-module-python/ importing modules in python
+    - https://www.programiz.com/python-programming/modules practice importing python modules
+    - https://packaging.python.org/tutorials/installing-packages/ installing packages using pip
 Directory Structure
 - https://www.westga.edu/its/assets-its/docs/understanding_directory_structure_windows.pdf - Windows Directory structure
 - https://macpaw.com/how-to/use-terminal-on-mac - mac terminal commands
 Git Hub
 - https://www.git-tower.com/learn/git/commands/git-commit - git commands
+-
+If you read this file, type your name below and push it to the master branch
