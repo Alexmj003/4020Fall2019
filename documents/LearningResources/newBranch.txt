@@ -1,0 +1,2 @@
+To create a new branch simply select the git option on the bottom right of the screen
+under remote branch, select checkout as and type the branch name.
