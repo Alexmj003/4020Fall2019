@@ -1,0 +1,1730 @@
+Business/Marketing
+Choral Music
+Collaborative Special Education
+Early Childhood Education
+Elementary Education
+English Language Arts
+Instrumental Music
+Mathematics
+Physical Education
+General Social Science
+Visual Arts
+ Chinese
+Biology
+Driver and Traffic Safety
+Family and Consumer Science
+General Science
+Health
+Health Science
+History
+Physics
+Spanish
+Theatre
+Biology	
+Health	
+History	
+General Science	
+Technical Education
+Agriscience
+Chemistry
+Choral Music	
+Early Childhood Education Special Education
+Elementary Education	
+Physical Education	
+Spanish	
+Mathematics	
+Business Education
+Elementary
+Theatre	
+French
+English for Speakers of Other Lang
+General Social Science	
+Latin
+English for Speakers of Other Lang.
+French	
+Visual Impairment
+Elementary Education		
+Elementary	
+Hearing Impairment
+Business/Marketing	
+Early Childhood Education	
+Visual Arts	
+Biology		
+Secondary Education
+Early Childhood Special Education
+Music  K-12
+Physical Education K-12
+Secondary--Anthropology
+Secondary--Biology
+Secondary--Business Education
+Secondary--Communication
+Secondary--Computer Education
+Secondary--English
+Secondary--Family/Consumer Science
+Secondary--General Science
+Secondary--German
+Secondary--History
+Secondary--Japanese
+Secondary--Mathematics
+Secondary--Psychology
+Secondary--Social Studies
+Secondary--Sociology
+Secondary--Spanish
+Special Education--Elementary
+Special Education--Secondary
+Art  K-12
+Secondary--Art
+Secondary--Earth Science
+Secondary--Physics
+Secondary--Political Science
+Secondary--Theatre Arts
+Secondary--Visual Arts
+Special Education K-12
+Secondary--Chemistry
+Secondary--Natural Science
+Secondary-Environmental Science
+AA in Education
+BEd in Elementary Education
+BEd in Elementary Education with Dual Preparation in Early Childhood Education
+BEd in Elementary Education with Dual Preparation in Special Education
+Secondary Education - English
+Secondary Education - General Science
+Secondary Education - History
+Secondary Education - Mathematics
+Secondary Education - Music
+Secondary Education - Art
+Secondary Education - Biology
+Secondary Education - Chemistry
+Secondary Education - Earth Science
+Secondary Education - Economics
+Secondary Education - French
+Secondary Education - Geography
+Secondary Education - Japanese
+Secondary Education - Physical Education
+Secondary Education - Physics
+Secondary Education - Political Science
+Secondary Education - Political Science/American Government
+Secondary Education - Spanish
+Special Education - Cross-Categorical
+Special Education - Early Childhood
+Secondary Education - Business
+Arts Education - Dance
+Arts Education - Dramatic Arts
+Arts Education - Music
+Secondary Education - Drama
+Arts Education - Art
+Secondary Education - Social Studies
+Special Education - Severely and Profoundly Disabled
+Secondary Education - Health
+Secondary Education - Korean
+Secondary Education - Psychology
+Secondary Education - Russian
+Special Education - Visually Impaired
+Secondary Education - Chinese-Mandarin
+Secondary Education - Middle Grades Language Arts 6-8
+Secondary Education - Photography
+Secondary Education - Secondary Education
+Special Education - Hearing Impaired
+Agricultural Science
+Art
+Business Technology
+Drama
+Earth Science
+English
+German
+Life Science
+Mandarin Chinese
+Middle Childhood Education
+Music
+Physical Education/Health
+Physical Science
+Social Studies
+Speech
+Life/Earth Science
+Physical/Earth Science
+Drama/Speech
+Industrial Technology
+Physics/Mathematics
+Marketing Technology
+Foundational-Level General Science
+Foundational-Level Mathematics
+General Subjects
+Mild/Moderate Disabilities
+Science: Biological Sciences
+Science: Physics
+Social Science
+Biological Sciences (Specialized)
+Foreign Language: American Sign Language
+Foreign Language: Spanish
+Moderate/Severe Disabilities
+Science: Chemistry
+Foreign Language: French
+Science: Geosciences
+Geosciences (Specialized)
+Deaf and Hard-of-Hearing
+Agriculture
+Chemistry (Specialized)
+Foreign Language: Mandarin
+Physics (Specialized)
+Business
+Geosciences
+Home Economics
+Biological Science
+Biological Sciences
+Foreign Language: German
+Foreign Language: Latin
+Foreign Language: Japanese
+Physical and Health Impairments
+Visual Impairments
+Foreign Language: Arabic
+Foreign Language: Korean
+Industrial and Technology Education
+Foreign Language: Cantonese
+Geography
+Drama/Theatre
+Teacher
+English, Grades 7 - 12	
+English, Middle School	
+Mathematics, 7-12
+Art, PreK - 12	
+Biology, Grades 7 - 12	
+Chemistry, Grades 7 - 12	
+Earth Science, Grades 7 - 12	
+French, Grades 7 - 12	
+General Science, Grades 7 - 12	
+Home Economics, PreK - 12	
+Italian, Grades 7 - 12	
+Latin and Classical Humanities	
+Mathematics, Grades 7 - 12	
+Music, PreK - 12	
+Other World Language	
+Physics, Grades 7 - 12	
+Spanish, 7 - 12	
+Technology Education, PreK - 12	
+Elementary - Kindergarten through Grade 6	
+History and Social Studies, Grades 7 - 12	
+Physical Education, PreK - 12	
+Special Education: Comprehensive, Grades K - 12	
+TESOL, Grades PreK - 12	
+Early Childhood/Special Ed., Birth - K
+Early Childhood/Special Ed., N-K and Elem: Grades 1 - 3	
+Business, Grades 7 - 12	
+Health, PreK - 12	
+General Science, Middle School	
+Mathematics, Middle School	
+Agriculture, PreK - 12	
+Early Childhood/Special Ed., Birth - K	
+History and Social Studies, Middle School	
+School Library Media Specialist
+Secondary English Language Arts Teacher Gr 9-12
+Teacher of  Biology Gr 9-12
+Teacher of Art K-12
+Teacher of Business Education
+Teacher of Elementary K-6
+Teacher of English to Speakers of Other Languages (ESOL)
+Teacher of Exceptional Children K-12
+Teacher of Family and Consumer Sciences
+Teacher of Integrated Science Gr 9-12
+Teacher of Mathematics Gr 9-12
+Teacher of Physics Gr 9-12
+Teacher of Technology Education
+Teacher of World Language - Greek
+Teacher of World Language - Japanese K-12
+Teacher of World Language Spanish K-12
+Teacher of World Language- French K-12
+Teacher of Early Childhood Birth - Grade 2
+Teacher of Elementary Grades K-6
+Teacher of Exceptional Children Grades K-12
+Early Childhood Special Ed- Birth - Gr 2
+Teacher of Chemistry Grades 9-12 (Valid 6-8 in a Middle School)
+Teacher of Earth Science Grades 9-12 (Valid 6-8 in a Middle School)
+Teacher of English Language Arts Grades 9-12 (Valid 6-8 in a Middle School)
+Teacher of English to Speakers of Other Languages Grades K-12
+Teacher of Integrated Science Grades 9-12 (Valid 6-8 in a Middle School)
+Teacher of Mathematics Grades 9-12 (Valid 6-8 in a Middle School)
+Teacher of Middle Level English Language Arts Grades 6-8
+Teacher of Middle Level Mathematics Grades 6-8
+Teacher of Middle Level Science Grades 6-8
+Teacher of Music Grades K-12
+Teacher of Physical Science Grades 9-12 (Valid 6-8 in a Middle School)
+Teacher of Social Studies Grades 9-12 (Valid 6-8 in a Middle School)
+Teacher of Students with Autism or Students with Severe Disabilities Grades K-12
+Teacher of World Languages - Spanish Grades K-12
+Teacher of Physical Education Grades K-12
+Teacher of Social Studies Grades 9-12 (Valid 6-8 in Middle School)
+School Counselor Grades 1-6 (Valid 5-8 in a Middle School)
+School Guidance Counselor Grades 1-6 (Valid 5-8 in a Middle School)
+School Nurse
+Teacher of Art Grades  K-12
+Teacher of Biology Grades 9-12 (Valid 6-8 in a Middle School)
+Teacher of Business Education Grades 9-12 (Valid 6-8 in a Middle School)
+Teacher of Early Childhood Birth to Grade 2
+Teacher of Music Grades  K-12
+Teacher of Physical Education Grades  K-12
+Teacher of Technology Education Grades K-12
+Categorical Special Education
+English as a Second Language
+Foreign Language - French
+Foreign Language - Spanish
+Non-Categorical Special Education
+Secondary English
+Secondary Mathematics
+Secondary Social Studies
+Performing Arts - Drama and Theatre
+Vocal Music
+Instrumental and Vocal Music
+Secondary Biology
+Secondary General Science
+Middle School Education
+Foreign Language Spanish
+Middle School Mathematics
+ELEMENTARY EDUCATION/ESOL (Grades K-6)
+ELEMENTARY EDUCATION/ESOL/READING (Grades K-6)
+EXCEPTIONAL STUDENT EDUCATION/ESOL/READING (Grades K-12)
+PREKINDERGARTEN-PRIMARY EDUCATION/ESOL/READING (Grades PK - 3)
+READING (Grades K-12)
+ELEMENTARY EDUCATION/ESOL (Grades K - 6)
+EXCEPTIONAL STUDENT EDUCATION/ESOL (Grades K-12)
+MUSIC (Grades K-12)
+SOCIAL SCIENCE (Grades 6-12)
+BIOLOGY (Grades 6-12)
+MATHEMATICS (Grades 6-12)
+MIDDLE GRADES GENERAL SCIENCE (Grades 5-9)
+MIDDLE GRADES MATHEMATICS (Grades 5-9)
+ELEMENTARY EDUCATION/ESOL/READING (Grades K-12)
+ENGLISH/ESOL (Grades 6-12)
+PHYSICAL EDUCATION (Grades K-12)
+PreK-Primary Education/ESOL/Reading/PreK Disabilities (Grades PreK - 3)
+ART (Grades K-12)
+DRAMA (Grades 6-12)
+EXCEPTIONAL STUDENT EDUCATION/ELEMENTARY EDUCATION/READING/ESOL (Grades K-12/Grades K-6)
+HEARING IMPAIRED/ELEMENTARY EDUCATION/ESOL/READING (Grades K-12/Grades K-6)
+ELEMENTARY EDUCATION/ESOL (Grades K-6)  	
+PREK-PRIMARY ED/ESOL/READING (Grades PK-3)
+WORLD LANGUAGE - SPANISH (Grades K-12)
+CHEMISTRY (Grades 6-12)
+PREK-PRIMARY EDUCATION/ESOL (Grades PK-3)
+READING/ESOL (Grades K-12)
+MIDDLE GRADES ENGLISH/ESOL/READING (Grades 5-9)
+BIOLOGY (MST) (Grades 6-12)
+ENGLISH/ESOL (MST) (Grades 6-12)
+ESOL (MST) (Grades K-12)
+MATHEMATICS (MST) (Grades 6-12)
+SOCIAL SCIENCE (MST) (Grades 6-12)
+SOCIAL SCIENCE/MIDDLE GRADES SOCIAL SCIENCE (Grades 6-12/ Grades 5-9)
+VISUALLY IMPAIRED (Grades K-12)
+EXCEPTIONAL STUDENT EDUCATION (Grades K-12)
+COMPUTER SCIENCE (Grades K-12)
+MIDDLE GRADES ENGLISH/ESOL (Grades 5-9)
+PREKINDERGARTEN-PRIMARY EDUCATION/ESOL (Grades PK-3)
+SPEECH/LANGUAGE IMPAIRED (Grades K-12)
+ELEMENTARY EDUCATION/EXCEPTIONAL STUDENT EDUCATION/ESOL (Grades K-16/Grades K-12)
+PREKINDERGARTEN-PRIMARY EDUCATION/ELEMENTARY EDUCATION/ESOL (Grades PK-3/ Grades K-6)
+EXCEPTIONAL STUDENT ED/ELEMENTARY ED/ ESOL/READING/AUTISM SPECTRUM DISORDERS (Grades K-12/Grades K-6
+MIDDLE GRADES GENERAL SCIENCE/READING (Grades 5-9)
+MIDDLE GRADES MATHEMATICS/READING (Grades 5-9)
+MIDDLE GRADES SOCIAL SCIENCE/READING (Grades 5-9)
+Elementary Education/ ESOL (Grades K-6)
+PREK-PRIMARY ED/ESOL (Grades PK-3)
+PREK-PRIMARY EDUCATION/ESOL/READING (Grades PK-3)
+PHYSICS (Grades 6-12)
+AGRICULTURE (Grades 6-12)
+ELEMENTARY EDUCATION/EXCEPT STUDENT EDUCATION/ESOL (Grades K-6/Grades K-12)
+PRESCHOOL EDUCATION/PREK-PRIMARY EDUCATION/PREK DISABILITIES/ESOL (Birth- Age 4/Grades PK-3)
+HEARING IMPAIRED (Grades K-12)
+MIDDLE GRADES MATH/MIDDLE GRADES GENERAL SCIENCE (Grades 5-9)
+BIOLOGY (MAT) (Grades 6-12)
+CHEMISTRY (MAT) (Grades 6-12)
+CHINESE/ESOL (MAT) (Grades K-12)
+ELEMENTARY EDUCATION/ESOL (MAT) (Grades K-6)
+ENGLISH/ESOL (MAT) (Grades 6-12)
+EXCEPTIONAL STUDENT EDUCATION/ESOL/READING (MAT) (Grades K-12)
+FRENCH/ESOL (Grades 6-12)
+MATHEMATICS (MAT) (Grades 6-12)
+MIDDLE GRADES MATHEMATICS (MAT) (Grades 5-9)
+SOCIAL SCIENCE (MAT) (Grades 6-12)
+SPANISH/ESOL (Grades 6-12)
+MIDDLE GRADES GENERAL SCIENCE/MIDDLE GRADES SOCIAL SCIENCE (Grades 5-9)
+MIDDLE GRADES MATH/MIDDLE GRADES ENGLISH (Grades 5-9)
+Teacher Education - Elementary Education
+Teacher Education - English/Language Arts
+Teacher Education - Health
+Teacher Education - Junior High/Intermediate/Middle School Education
+Teacher Education - Mathematics
+Teacher Education - Multiple Levels
+Teacher Education - Music
+Teacher Education - Physical Education and Coaching
+Teacher Education - Reading
+Teacher Education - Science Teacher Education/General Science
+Teacher Education - Social Science
+Teacher Education - Special Education
+Teacher Education - Art
+Teacher Education - Biology
+Teacher Education - Foreign Language
+Teacher Education - Secondary Education
+Teacher Education - Spanish
+Teacher Education- History
+Teacher Education - Chemistry
+Teacher Education - Physics
+Teacher Education - French
+Teacher Education - Technology Teacher Education/Industrial Arts
+Teacher Education - Earth Science
+Teacher Education - Agriculture
+Teacher Education - Family and Consumer Sciences/Home Economics
+Teacher Education - Latin
+Teacher Education - Business
+Teacher Education - Early Childhood Education
+Teacher Education - English as a Second Language
+Teacher Education - German
+Teacher Education - Geography
+Administration and Supervision
+Counseling
+Masters of Arts in Teaching
+Reading
+Secondary Education/Chamorro
+Secondary Education/Consumer and Family Science
+Secondary Education/ESL
+Secondary Education/Foreign Language
+Secondary Education/General Science
+Secondary Education/Mathematics
+Secondary Education/Physical Education
+Secondary Education/Social Studies
+Secondary Education: English/Language Arts
+Special Education (Graduate)
+Special Education (Undergraduate)
+Elementary Education K-6
+English 6-12
+Physical Education 6-12
+Science 6-12
+Social Studies 6-12
+Teaching English to Speakers of Other Languages 6-12
+Mathematics 6-12
+Special Education Mild/Moderate K-12
+Mathematics 6-8
+CTE - Industrial and Engineering Technology 6-12
+CTE - Public and Human Services 6-12
+Hawaiian Language 6-12
+Hawaiian Language Immersion K-12
+Hawaiian Language Immersion K-6
+Hawaiian Language Immersion P-12
+Hawaiian Language Immersion PK-3
+Hawaiian Studies 6-12
+Art 6-12
+Early Childhood Education PK-3
+Japanese 6-12
+Music K-12
+Reading K-12
+Special Education K-6
+SPED - Mild/Moderate 6-12
+SPED - Mild/Moderate K-6
+SPED -Mild/Moderate PK-3
+SPED - Mild/Moderate K-12
+Alternate Authorization - Content Specialist
+Exceptional Child
+Provisional Authorization
+Standard Elementary
+Standard Secondary
+Alternate Authorization / Content Specialist
+Alternate Authorization / Teach New Cert
+Early Childhood / ECSE Blended
+Exceptional Child- ABCTE
+Limited Occupational Specialist
+Standard Elementary- ABCTE
+Standard Secondary- ABCTE
+Standard Occupational Specialist
+Elementary Education (Self Contained General Education)
+Language Arts
+Learning Behavior Specialist I
+Science-Biology
+Social Science-History
+Bilingual Education Teacher - Spanish
+Business, Marketing and Management
+English As A Second Language
+Health Education
+Reading Specialist
+Technology Specialist
+Theatre/Drama
+Agricultural Education
+Business, Marketing and Computer Education
+Computer Science
+Science-Chemistry
+Science-Physics
+Social Science-Political Science
+Social Science-Sociology and Anthropology
+FACS - Apparel & Textiles
+FACS - Living Environments
+FACS - Nutrition, Wellness & Hospitality
+Computer Applications
+General Geography
+Industrial Technology Education
+Library Information Specialist
+Technology Education
+Bilingual Education Teacher - Mandarin/Chinese
+Dance
+Early Childhood Education (Self Contained General Education)
+Foreign Language - Italian
+Foreign Language - Japanese
+Foreign Language - Mandarin
+Science-Earth and Space Science
+Social Science-Psychology
+Foreign Language - Arabic
+Foreign Language - German
+Foreign Language - Latin
+Reading Teacher
+Drama/Theatre Arts
+Safety & Driver Education
+Business, Marketing and Computer Ed - Programming
+Family & Consumer Science
+Science-Environmental
+Social Science-Geography
+Speech/Theatre
+Teacher of Students Who Are Blind or Visually Impaired
+Teacher of Students Who Are Deaf or Hard Of Hearing
+Early Childhood Special Education (Self-Contained General and Special Education)
+Bilingual Education Teacher - Arabic
+Learning Behavior Specialist II: Behavior Intervention
+Bilingual Education Teacher - Cantonese/Chinese
+Bilingual Education Teacher - Greek
+Bilingual Education Teacher - Polish
+Bilingual Teacher Serbo-Croatian-Bosnian
+Social Science-Economics
+Bilingual Education Teacher - Korean
+Learning Behavior Specialist II: Curriculum Adaptation
+Self-Contained General Education
+Foreign Language - Polish
+Bilingual Education Teacher - Assyrian
+Bilingual Education Teacher - German
+Learning Behavior Specialist II: Multiple Disabilities
+Learning Behavior Specialist II: Technology
+Learning Behavior Specialist II: Transition
+Self Contained Special Education
+Elementary Generalists
+Government and Citizenship
+Historical Perspectives
+Career and Technical Education: Business Services And Technology
+Career and Technical Education: Marketing
+Career and Technical Education: Occupational Family And Consumer Sciences
+Computer Education
+Deaf and Hard of Hearing
+Earth/Space Science
+Economics
+Elementary / Intermediate Generalist
+Elementary/Primary Generalist
+English as a New Language
+Geographical Perspectives
+Instrumental and General Music
+Intense Intervention
+Japanese
+Journalism
+Mild Intervention
+Psychology
+Sociology
+Theater Arts
+Vocal and General Music
+Career and Technical Education: Trade And Industrial Education
+Library/Media
+Chinese
+Early Adolescence Generalist [Language Arts]
+Early Adolescence Generalist [Mathematics]
+Early Adolescence Generalist [Science]
+Early Adolescence Generalist [Social Studies]
+Preschool Generalist
+Adaptive Physical Education
+Career and Technical Education: Agriculture
+Early Childhood Education and Services
+101 - Athletic Coach K-12
+102 - Teacher Elementary Classroom K-6
+103 - Early Childhood Education PK-K
+1171 - Business - All 5-12
+119 - English/Language Arts K-8
+120 - English/Language Arts 5-12
+142 - Mathematics K-8
+143 - Mathematics 5-12
+146 - Physical Education K-8
+147 - Physical Education 5-12
+148 - Reading K-8
+150 - Science-Basic K-8
+151 - Biology 5-12
+152 - Chemistry 5-12
+154 - General Science 5-12
+158 - American History 5-12
+163 - Psychology 5-12
+164 - Social Studies K-8
+165 - Sociology 5-12
+166 - World History 5-12
+1821 - Middle School Language Arts 5-8
+1822 - Middle School Mathematics 5-8
+1823 - Middle School Science 5-8
+1824 - Middle School Social Studies 5-8
+260 - Special Education - Instructional Strategist I K-8
+261 - Special Education - Instructional Strategist I 5-12
+137 - Health K-8
+138 - Health 5-12
+144 - Music K-8
+145 - Music 5-12
+156 - Physics 5-12
+157 - American Government 5-12
+104 - ESL Teacher K-12
+107 - Talented and Gifted K-12
+113 - Art K-8
+114 - Art 5-12
+134 - Spanish 5-12
+141 - Journalism 5-12
+149 - Reading 5-12
+161 - Geography 5-12
+162 - History K-8
+186 - All Social Studies 5-12
+123 - French K-8
+124 - French 5-12
+126 - German 5-12
+133 - Spanish K-8
+155 - Physical Science 5-12
+159 - Anthropology 5-12
+153 - Earth Science 5-12
+184 - All Science 5-8
+185 - All Science II 9-12
+1171 - Business  All 5-12
+106 - Early Childhood Teacher PK-Grade 3
+125 - German K-8
+140 - Industrial Technology 5-12
+167- Speech Communication/Theatre K-8
+168 - Speech Communication/Theatre 5-12
+174 - Teacher Librarian K-12
+262 - Early Childhood Education PK-K
+263 - Special Education - Instructional Strategist II LD/BD 5-12
+264 - Special Education - Instructional Strategist II MD 5-12
+100 - Teacher PK-Gr 3, including special education
+1201 - Language Arts 5-12
+160 - Economics 5-12
+184 - All Science I 5-8
+234 - Work Experience Coordinator 5-12
+167 - Speech Comm/Theater K-8
+168 - SpeechComm/Theater 5-12
+118 - Driver and Safety Education 5-12
+139 - Family and Consumer Science - General 5-12
+168 - Speech Comm/Theatre 5-12
+130 - Latin 5-12
+112 - Agriculture 5-12
+263 - Special Education - Instructional Strategist II Behavior Disorders/Learning Disabilities K-12
+300 - Agriscience/Agribusiness 5-12
+303 - Consumer/Homemaking Ed 5-12
+304 - Occupational Home Ec 5-12
+305 - Multioccupations 5-12
+155 -  Physical Science 5-12
+150 - Science - Basic K-8
+1201 - Language Arts - All  5-12
+1421 - Algebra for High School Credit
+108 - Teacher Librarian K-8
+109 - Teacher Librarian 5-12
+121 - Chinese K-8
+122 - Chinese 5-12
+127 - Japanese K-8
+128 - Japanese 5-12
+129 - Latin K-8
+1541 - Basic Science 5-12
+180 - Italian 5-12
+267 - Visually Impaired - B-21
+1421 - 5-8 Algebra for H.S. Credit
+BIOLOGY 6-12
+CHEMISTRY 6-12
+EARLY - LATE CHILDHOOD GENERALIST K-6
+ELEMENTARY K-9
+ENGLISH LANGUAGE ARTS 5-8
+ENGLISH LANGUAGE ARTS 6-12
+HEAlternative, IHE-basedH PRK-12
+HISTORY, GOVERNMENT, AND SOCIAL STUDIES 6-12
+INSTRUMENTAL MUSIC PRK-12
+MATHEMATICS 6-12
+MUSIC K-12
+PHYSICAL EDUCATION PRK-12
+VOCAL MUSIC PRK-12
+ART PRK-12
+BUSINESS 6-12
+LATIN PRK-12
+SCIENCE 5-8
+ADAPTIVE SPECIAL EDUCATION K-6
+MUSIC PRK-12
+PHYSICS 6-12
+SPANISH PRK-12
+ART K-12
+ENGLISH 7-12
+PHYSICAL EDUCATION K-12
+SOCIOLOGY 7-12
+ADAPTIVE SPECIAL EDUCATION 6-12
+CHEMISTRY 7-12
+EARLY CHILDHOOD EDUCATION EC-EC
+EARLY CHILDHOOD HANDICAPPED EC-EC
+EARLY CHILDHOOD UNIFIED B-GRD3
+EARLY CHILDHOOD UNIFIED B-K
+EARTH AND SPACE SCIENCE 6-12
+ENGLISH FOR SPEAKERS OF OTHER LANGUAGES PRK-12
+GIFTED K-6
+HISTORY, GOVERNMENT, AND SOCIAL STUDIES 5-8
+MATHEMATICS 5-8
+SPEECH/THEATRE 6-12
+ADAPTIVE SPECIAL EDUCATION PRK-12
+AGRICULTURE 6-12
+GENERAL SCIENCE 5-12
+GIFTED PRK-12
+HEAlternative, IHE-basedH K-12
+PRODUCTION TECHNOLOGY 6-12
+PSYCHOLOGY 6-12
+TECHNOLOGY EDUCATION 6-12
+FAMILY AND CONSUMER SCIENCE 6-12
+GERMAN PRK-12
+HIGH-INCIDENCE SPECIAL EDUCATION PRK-12
+JOURNALISM 6-12
+BIOLOGY 7-12
+CHINESE PRK-12
+ENGLISH FOR SPEAKERS OF OTHER LANGUAGES K-6
+HOME ECONOMICS 5-12
+MATHEMATICS 7-12
+SOCIAL STUDIES,COMP 5-9
+SOCIAL STUDIES,COMP 7-12
+SPANISH 5-12
+SPEECH COMMUNICATION 7-12
+MENTALLY RETARDED K-9
+POLITICAL SCIENCE/GOVERNMENT 7-12
+COMPUTER STUDIES 7-12
+FUNCTIONAL SPECIAL EDUCATION 6-12
+HIGH-INCIDENCE SPECIAL EDUCATION 6-12
+PSYCHOLOGY 7-12
+SOCIAL STUDIES,COMP 7-9
+ENGLISH FOR SPEAKERS OF OTHER LANGUAGES 6-12
+HIGH-INCIDENCE SPECIAL EDUCATION K-6
+ENGLISH AS A SECOND LANGUAGE K-12
+FRENCH PRK-12
+FUNCTIONAL SPECIAL EDUCATION PRK-12
+GERMAN 7-12
+GIFTED 6-12
+LEARNING DISABILITIES K-12
+LEARNING DISABILITIES K-9
+MATHEMATICS 5-9
+SOCIAL STUDIES,COMP 5-12
+SPANISH 7-12
+GENERAL SCIENCE 5-9
+AMERICAN HISTORY 7-12
+FUNCTIONAL SPECIAL EDUCATION K-6
+Middle Grades English
+Middle Grades Mathematics
+Middle Grades Social Studies
+Learning and Behavior Disorders
+Moderate and Severe Disabilities
+Middle Grades Science
+Interdisciplinary Early Childhood Education
+Middle School Science
+Communication Disorders
+Family And Consumer Science
+Hearing Impaired
+Learning And Behavior Disorders
+ Interdisciplinary Early Childhood Education
+Moderate And Severe Disabilities
+Industrial Education
+School Media Librarian
+Speech Media Communications
+Biology Education (Grades 6-12)
+Elementary Education  (Grades 1-5)
+English Education (Grades 6-12)
+French Education (Grades 6-12)
+Mathematics Education (Grades 6-12)
+Social Studies (Grades 6-12)
+Spanish Education (Grades 6-12)
+Art Education (Grades K-12)
+Early Childhood Education  (Grades PK-3)
+Instrumental Music (Grades K-12)
+Mild/Moderate:  Elementary 1-5
+Mild/Moderate Special Education 1-12
+Chemistry Education (Grades 6-12)
+General Science Education (Grades 6-12)
+Middle School Education (Grades 4-8) in English
+Middle School Education (Grades 4-8) in Mathematics
+Middle School Education (Grades 4-8) in Social Studies
+Mild/Moderate Special Education (Grades 1-12)
+Mild/Moderate Special Education (Grades 1-5)
+Mild/Moderate Special Education (Grades 4-8)
+Mild/Moderate Special Education (Grades 6-12)
+Physics Education (Grades 6-12)
+Social Studies Education (Grades 6-12)
+Spanish Education (Grades K-12)
+Health and Physical Education (Grades K-12)
+Vocal Music (Grades K-12)
+Business Education (Grades 6-12)
+Family and Consumer Science Education (Grades 6-12)
+Middle School Education (Grades 4-8) in Science
+Mild/Moderate:  Middle Grades 4-8
+Mild/Moderate:  Secondary 6-12
+Agriculture Education (Grades 6-12)
+Early Interventionist (Birth to Five)
+Visual Impairments/Blind K-12
+Environmental Science Education (Grades 6-12)
+Middle School Education (Grade 4-8) in Mathematics
+Environmal Education (Grades 6-12)
+Speech Education (Grades 6-12)
+Earth Science Education (Grades 6-12)
+Hearing Impaired (Grades K-12)
+Significant Disabilitites (Grades K-12)
+Technology Education (Grades 6-12)
+Foreign Language
+Secondary Life Science
+Secondary Physical Science
+General Elementary
+Special Education
+Early Childhood (K-3)
+Bachelor of Education in Early Childhood
+Diploma in Early Childhood Education
+Master's in Education
+Postgraduate in Early Childhood Education
+Chemistry (7-12)
+English (7-12)
+World Language: Italian (PreK-12)
+Elementary Education (1-6)
+Social Studies (7-12)
+Special Education Elementary /Middle (1-8)
+Special Education Secondary/Adult (6-12)
+Biology (7-12)
+Early Childhood Education (PreK-3)
+English Speakers of Other Languages (ESOL) PreK-12
+Mathematics (7-12)
+Special Education Elementary/Middle (1-8)
+World Languages: Spanish ( PreK-12)
+Elementary Education (1-8)
+Middle School (4-9)
+Special Education Infant/Primary (Birth - Grade 3)
+Art (PreK-12)
+Music (PreK-12)
+World Languages: Spanish (PreK-12)
+Special Education (Birth-Grade 3)
+Early Childhood (PreK-3)
+Earth Space Science (7-12)
+Health (PreK-12)
+Physical Education (PreK-12)
+Environmental Education (PreK-12)
+History (7-12)
+World Languages: Chinese Mandarin (PreK-12)
+World Languages:Spanish (PreK-12)
+Earth/Space Science (7-12)
+Physics (7-12)
+Special Education:Elementary/Middle (1-8)
+World Languages: French (PreK-12)
+Business Education (7-12)
+English Speakers of Other Languages (ESOL) (PreK-12)
+Physical Science (7-12)
+Theater (7-12)
+World Languages: German (PreK-12)
+Dance (PreK-12)
+Family & Consumer Sciences
+Special Education Secondary/Adult 6-12
+English Speakers of Other Languages (ESOL)( PreK-12)
+Professional and Technical Education (7-12)
+Special Education (Birth - Grade 3)
+Special Education Severely & Profoundly Handicapped
+Family & Consumer Science (7-12)
+Elementary Education (PreK-3)
+Business/Business Administration/Accounting
+English Language/Literature
+Foreign Languages
+Mathematics and Statistics
+Teacher Education - History
+Teacher Education - Science
+Visual and Performing Arts
+Family and Consumer Sciences/Human Sciences
+Teacher Education - Drama and Dance
+Education - Other Library
+Other Library
+Engineering
+Teacher Education - Technical Education
+Education - Other Political Science and Government
+Political Science and Government
+Elementary EARLY CHILDHOOD PK-GENERAL AND SPECIAL EDUCATION
+Elementary HEALTH
+Elementary INTEGRATED SCIENCE
+Elementary LANGUAGE ARTS
+Elementary MATHEMATICS
+Elementary SPANISH
+Secondary ENGLISH
+Secondary INTEGRATED SCIENCE
+Secondary MATHEMATICS
+Secondary MUSIC EDUCATION
+Secondary PHYSICAL EDUCATION
+Secondary SOCIAL STUDIES
+Secondary SPANISH
+Secondary VISUAL ARTS EDUCATION
+Elementary HISTORY
+Secondary BIOLOGY
+Secondary CHEMISTRY
+Elementary EARLY CHILDHOOD EDUCATION PRE K-K
+Elementary ENGLISH
+Elementary GERMAN
+Elementary SOCIAL STUDIES
+Secondary HISTORY
+Elementary READING
+Secondary PHYSICS
+Secondary POLITICAL SCIENCE
+Elementary LEARNING DISABILITIES
+Secondary BILINGUAL SPANISH
+Secondary ENGLISH AS A SECOND LANGUAGE
+Secondary FRENCH
+Secondary SPEECH
+Elementary COGNITIVE IMPAIRMENT
+Elementary ENGLISH AS A SECOND LANGUAGE
+Elementary PHYSICAL EDUCATION
+Secondary COMPUTER SCIENCE
+Secondary EARTH/SPACE SCIENCE
+Secondary GEOGRAPHY
+Secondary HEALTH
+Secondary LATIN
+Secondary PSYCHOLOGY
+Elementary EMOTIONAL IMPAIRMENT
+Elementary MIDDLE LEVEL SPECIALIZATION
+Elementary PHYSICAL EDUCATION FOR STUDENTS WITH DISABILITIES
+Occupational BUSINESS ADMINISTRATION MANAGEMENT AND OPERATIONS
+Occupational DRAFTING AND DESIGN TECHNOLOGY/ARCHITECTURAL
+Occupational FAMILY AND CONSUMER SCIENCES
+Occupational GRAPHICS AND PRINTING TECHNOLOGY AND COMMUNICATIONS
+Occupational MARKETING, SALES, AND SERVICE
+Occupational WOODWORKING GENERAL
+Secondary BUSINESS MANAGEMENT MARKETING TECHNOLOGY
+Secondary COGNITIVE IMPAIRMENT
+Secondary EMOTIONAL IMPAIRMENT
+Secondary FAMILY AND CONSUMER SCIENCES
+Secondary INDUSTRIAL TECHNOLOGY
+Secondary MIDDLE LEVEL SPECIALIZATION
+Secondary VOCATIONAL BUSINESS SERVICES
+Secondary VOCATIONAL FAMILY AND CONSUMER SCIENCES
+Secondary VOCATIONAL MARKETING EDUCATION
+Secondary VOCATIONAL TECHNICAL
+Secondary LEARNING DISABILITIES
+Elementary AUTISM SPECTRUM DISORDER
+Elementary SPEECH AND LANGUAGE IMPAIRMENT
+Occupational CONSTRUCTION TRADES
+Occupational ENGINEERING TECHNOLOGY
+Occupational FINANCE AND FINANCIAL MANAGEMENT SERVICES
+Secondary CHINESE (MANDARIN)
+Secondary DEAF AND HARD OF HEARING
+Secondary PHYSICAL EDUCATION FOR STUDENTS WITH DISABILITIES
+Secondary PHYSICAL SCIENCE
+Secondary TECHNOLOGY AND DESIGN
+Secondary VISUAL IMPAIRMENT
+Occupational AUTOMOBILE TECHNICIAN (NATEF CERTIFIED)
+Occupational COLLISION REPAIR TECHNICIAN (NATEF CERTIFIED)
+Occupational COSMETOLOGY
+Occupational MECHATRONICS
+Occupational PERSONAL AND CULINARY SERVICES
+Occupational PUBLIC SAFETY/PROTECTIVE SERVICES
+Occupational RADIO AND TV BROAD CASTING TECH.
+Occupational SYSTEM ADMINISTRATION/ADMINISTRATOR
+Occupational THERAPEUTIC SERVICES
+Occupational WELDING, BRAZING, AND SOLDERING
+Secondary Elementary  K-5 ALL SUBJECTS (K-8 ALL SUBJECTS IN SELF-CONTAINED CLASSROOM)
+Secondary EARLY CHILDHOOD PK-GENERAL AND SPECIAL EDUCATION
+Secondary ECONOMICS
+Secondary GERMAN
+Elementary DANCE
+Secondary DANCE
+Elementary VISUAL ARTS EDUCATION
+Elementary CHINESE (MANDARIN)
+Elementary DEAF AND HARD OF HEARING
+Elementary FINE ARTS
+Elementary JAPANESE
+Occupational AGRICULTURE, AGRICULTURAL OPERATIONS & RELATED SCI
+Secondary AGRISCIENCE & NATURAL RESOURCES
+Secondary JOURNALISM
+Secondary SOCIOLOGY
+Secondary SPEECH AND LANGUAGE IMPAIRMENT
+Secondary VOCATIONAL AGRISCIENCE AND NATURAL RESOURCES
+Secondary AUTISM SPECTRUM DISORDER
+Secondary ITALIAN
+Secondary LIBRARY MEDIA
+Elementary BILINGUAL SPANISH
+Occupational COMPUTER PROGRAMMING/PROGRAMMER
+Occupational COMPUTER SYSTEMS NETWORKING AND TELECOMMUNICATION
+Secondary ARABIC (MODERN STANDARD)
+Elementary Elementary  K-5 ALL SUBJECTS (K-8 ALL SUBJECTS IN SELF-CONTAINED CLASSROOM)
+Occupational AERONAUTICS/AVIATION/AEROSPACE SCIENCE AND TECHNOLOGY
+Occupational DIAGNOSTIC SERVICES
+Occupational ELECTRICAL/ELECTRONICS EQUIPMENT INSTALLATION & REPAIR GENERAL
+Secondary INDUSTRIAL & TECHNOLOGY EDUCATION
+Secondary SCHOOL COUNSELOR
+Communication Arts/Literature
+Instrumental and Classroom Music
+Pre Primary
+Science 5-8
+Social Studies All
+Sped: Emotional Behavior Disorders
+Sped: Learning Disabilities
+Vocal and Classroom Music
+Communication Arts and Literature
+Earth and Space Science
+Medical Careers
+Sped: Developmental / Adapted Physical Education
+Sped: Learning Disibilities
+Technology
+Sped: Academic and Behavioral Strategist
+Sped: Developmental/Adapted Physical Education
+Teacher/Coordinator Work Based Learning
+Greek
+Dance and Theatre
+Sped: Developmental Disabilities
+Communications Arts/Literature
+Family and Consumer Sciences
+Sped: Early Childhood Special Education
+Speech Language Pathologist
+Library Media Specialist
+Earth and Space Sciences
+Parent and Family Education
+Sped: Developmental Disabilites
+Theatre Arts
+Adult Basic Education
+American Indian Language and Culture
+Sped: Deaf or Hard of Hearing
+Sped: Oral/Aural Deaf Education
+Sped: Autism Spectrum Disorders
+Sped: Emotional Behavioral Disorders
+Elementary Education  (4-6)
+Marketing
+Media Librarian
+Music Education
+BIOLOGY 9-12
+CHEMISTRY 9-12
+ELEMENTARY EDUCATION 1-6
+ENGLISH 9-12
+GENERAL SCIENCE 9-12
+LANGUAGE ARTS 5-9
+MATHEMATICS 9-12
+SOCIAL SCIENCE 5-9
+SOCIAL SCIENCE 9-12
+BUSINESS EDUC 9-12
+MILD/MOD CROSS CATEGORICAL K-12
+MUSIC - VOCAL K-12
+SPEECH AND THEATRE 5-9
+SPEECH AND THEATRE 9-12
+EARLY CHILDHOOD EDUCATION B-3
+HEALTH K-12
+MUSIC - INSTRUMENTAL K-12
+UNIFIED SCIENCE: BIOLOGY 9-12
+AGRICULTURAL EDUCATN 9-12
+SPANISH K-12
+PHYSICAL EDUCATION 9-12
+ENG FOR SPEAKERS OF OTHER LANGUAGES K-12
+HEALTH K-9
+DEAF AND HEARING IMPAIRED B-12
+EARLY CHILD SPECIAL EDUCATION B-3
+FAMILY AND CONSUMER SCIENCES B-12
+BUSINESS EDUCATION 5-9
+FRENCH K-12
+TECHNOLOGY AND ENGINEERING 9-12
+UNIFIED SCIENCE: CHEMISTRY 9-12
+HEALTH 9-12
+LIBRARY MEDIA SPECIALIST K-12
+BLIND/PARTIALLY SIGHTED B-12
+GENERAL SCIENCE 7-9
+PHYSICS 9-12
+UNIFIED SCIENCE: EARTH SCIENCE 9-12
+DRIVER EDUC 9-12
+MARKETING 9-12
+SOCIAL STUDIES 5-9
+GERMAN K-12
+FRENCH K-9
+SPANISH K-9
+EARTH SCIENCE 9-12
+SEVERE DEVELOPMENT DISABLED B-12
+ART K-9
+Teacher Education - Social Studies
+Teacher Education - Psychology
+Teacher Education - Economics
+Teacher Education - Government
+Specify: government (political science), library media, and economics
+Library Media K-12
+ART
+BASIC BUSINESS
+COACHING
+EARLY CHILDHOOD EDUCATION 1802
+EARLY CHILDHOOD INCLUSIVE
+ELEMENTARY
+ENGLISH
+ENGLISH LANGUAGE ARTS
+HEALTH & PHYS EDUC
+HISTORY
+INDUSTRIAL TECH EDUCATION
+MATHEMATICS
+MIDDLE GR/BUSINESS ED
+MIDDLE GR/FAMILY & CONSUMER
+MIDDLE GR/HEALTH & PE
+MIDDLE GR/LANGUAGE ARTS
+MIDDLE GR/MATHEMATICS
+MIDDLE GR/NATURAL SCIENCES
+MIDDLE GR/SOCIAL SCIENCE
+MIDDLE GRADES
+MUSIC
+SCHOOL LIBRARIAN
+SCIENCE
+SOCIAL SCIENCE
+SPECIAL EDUCATION
+VOCAL MUSIC
+BIOLOGY
+CHEMISTRY
+ENGLISH AS 2ND LANG
+HEALTH EDUCATION
+INFORMATION TECHNOLOGY
+PHYSICAL EDUCATION
+GEOGRAPHY
+MIDDLE GR/ART
+PHYSICS
+RELIGIOUS EDUCATION
+THEATRE
+WORLD LANGUAGE-SPANISH
+NATURAL SCIENCE
+INSTRUMENTAL MUSIC
+BUSINESS, MARKETING, INFO TECH
+COOP ED DIV OCC
+DRIVER EDUCATION
+EARTH AND SPACE SCIENCE
+MIDDLE GR/WORLD LANGUAGE
+POLITICAL SCIENCE
+SCHOOL PSYCHOLOGIST
+SOCIOLOGY
+SPEECH-LANGUAGE PATH
+WORLD LANGUAGE-GERMAN
+AGRICULTURE
+FAMLY/CONSMR SCIENCE
+WORLD LANGUAGE-FRENCH
+JOURN AND MASS COMM
+SKILLED & TECHNICAL SCIENCE ED
+WORLD LANGUAGE-CHINESE
+PSYCHOLOGY
+Secondary Business Education
+Secondary Math
+SpEd: Autism
+SpEd: Early Childhood Developmentally Delayed
+SpEd: K-12 Generalist (Resource Room/Co-Teaching/SEC)
+Secondary Science
+Early Childhood
+Secondary Foreign Language
+Secondary Psychology
+PE/Health
+Secondary Business & Industry
+Secondary Drama/Theater
+SpEd: Early Childhood Special Education (Developmentally Delayed)
+Secondary Business
+SpEd Intellectual Disabilities
+SpEd: Hearing Impaired
+Elementary Education (K-8)
+Life Science Education (7-12)
+Middle School Science (5-9)
+English Education (5-12)
+General Special Education
+Emotional and Behavioral Disorders
+English for Speakers of Other Languages
+Mathematics (5-8)
+Earth/Space Science Education
+Middle Level Science (5-9)
+Social Studies (5-12)
+Visual Art Education
+Animal Science
+Chemistry Education
+Education Technology Integrator
+Elementary Education (K-6)
+English Education (5-8)
+Health Occupations
+Middle School Science (5-8)
+Physical Science Education
+Physics Education
+Specific Learning Disabilities
+Mathematics ((5-8)
+Intellectual and Developmental Disabilities
+Visual Arts Education
+Elementary Education (k-8)
+Life Science Education (5-12)
+1000 - Elementary School Teacher
+1001 - Elementary School Teacher in Grades K - 6
+1013 - Teacher of Preschool through Grade 3
+1102 - Elementary School Teacher with Mathematics Specialization: in Grades 5 - 8
+1103 - Elementary School with Subject Matter Specialization: Science in Grades 5 - 8
+1410 - Teacher of English
+1900 - Teacher of Mathematics
+2300 - Teacher of Social Studies
+1106 - Elementary School with Subject Matter Specialization: Language Arts/Literacy Specialization i
+1200 - Teacher of Art
+1550 - Teacher of Spanish
+2100 - Teacher of Music
+2210 - Teacher of Biological Science
+1104 - Elementary School with Subject Matter Specialization: Social Studies in Grades 5 - 8
+1451 - Teacher of Theater
+2270 - Teacher of Chemistry
+1510 - Teacher of French
+1605 - Teacher of Health and Physical Education
+2220 - Teacher of Earth Science
+1630 - Teacher of Physical Education
+1005 - Teacher of Supplemental Instruction: Reading and Mathematics, Grades K-8
+1300 - Teacher of Comprehensive Business
+1301 - Teacher of Business: Accounting
+1302 - Teacher of Business: Finance/Economics/Law
+1303 - Teacher of Business: Keyboarding and Data Entry
+1304 - Teacher of Business Computer Applications: and Business-Related Information Technology
+1520 - Teacher of German
+1705 - Teacher of Family and Consumer Sciences
+1706 - Family & Consumer Sciences: Child & Family Development
+1707 - Family & Consumer Sciences: Food / Nutrition & Food Science
+1810 - Teacher of Technology Education
+2240 - Teacher of Physical Science
+2260 - Teacher of Physics
+2560 - Teacher of Marketing Education
+3462 - Speech Language Specialist
+1475 - English as a Second Language
+1480 - Bilingual/Bicultural Education
+2475- Students with Disabilities
+1430 - Teacher of Reading
+Secondary
+Bilingual Education Extension
+Biology 5-6 Extension
+Biology 7-12
+Chemistry 5-6 Ext
+Chemistry 7-12
+Childhood Education (Grades 1-6)
+Early Childhood Education (Birth-Grade 2)
+Earth Science 5-6 Ext
+Earth Science 7-12
+Educational Technology Specialist
+English Language Arts 5-6 Extension
+English Language Arts 7-12
+English To Speakers Of Other Languages
+Literacy (Birth-Grade 6)
+Literacy (Grades 5-12)
+Mathematics 5-6 Extension
+Mathematics 7-12
+Mathematics 7-9 Extension
+Physics 7-12
+School Building Leader
+Social Studies 5-6 Extension
+Social Studies 7-12
+Speech And Language Disabilities
+Students With Disabilities (Grades 1-6)
+Students With Disabilities - Biology (Grades 7-12 )
+Students With Disabilities - Earth Science (Grades 7-12 )
+Students With Disabilities - English Language Arts (Grades 7-12 )
+Students With Disabilities - Grades 7-12 - English
+Students With Disabilities - Grades 7-12 - Generalist
+Students With Disabilities - Mathematics (Grades 7-12 )
+Students With Disabilities - Social Studies (Grades 7-12 )
+English Language Arts (Grades 5-9)
+Mathematics (Grades 5-9)
+Biology (Grades 5-9)
+Generalist In Middle Childhood Education (Grades 5-9)
+Social Studies (Grades 5-9)
+Students With Disabilities (Birth - Grade 2)
+Students With Disabilities (Grades 5-9), Generalist
+Earth Science (Grades 5-9)
+French 7-12
+Gifted Education Extension
+Spanish 7-12
+Italian 7-12
+Blind And Visually Impaired
+Chinese 7-12
+Deaf And Hard Of Hearing
+Latin 7-12
+Severe Or Multiple Disabilities Annotation
+Cosmetology/Barbering 7-12
+Culinary Careers 7-12
+Electrical 7-12
+Electrical/Electronic Equipment Occupations (Repair & Installation) 7-12
+Graphic Imaging (To Include Printing/Lithography) 7-12
+Family And Consumer Sciences
+Business And Marketing
+German 7-12
+Students With Disabilities - Grades 7-12 - Social Studies
+General Science 7-12 Extension
+English Language Arts 7-9 Extension
+Social Studies 7-9 Extension
+General Science 5-6 Extension
+Students With Disabilities - Grades 7-12 - Earth Science
+Students With Disabilities - Grades 7-12 - Mathematics
+Students With Disabilities - Grades 7-12 - Spanish
+Mandarin 7-12
+Physics 5-6 Ext
+Students With Disabilities - Chemistry (Grades 7-12 )
+Students With Disabilities - Grades 7-12 - Biology
+Chemistry (Grades 5-9)
+Students With Disabilities - Grades 5-9 - English
+Students With Disabilities - Grades 5-9 - Mathematics
+Students With Disabilities - Grades 5-9 - Social Studies
+Students With Disabilities - Mathematics (Grades 5-9 )
+Students With Disabilities - Social Studies (Grades 5-9 )
+Students With Disabilities - Grades 5-9 - Concentration In Biology
+Spanish 5-6 Ext
+Spanish (Grades 5-9)
+Students With Disabilities - Grades 7-12 - Chemistry
+Chinese Grades 1-6 Extension
+Japanese 7-12
+Mandarin 5-6 Ext
+Mandarin Grades 1-6 Extension
+Spanish Grades 1-6 Extension
+French (Grades 5-9)
+General Science (Grades 5-9) Extension
+Students With Disabilities - Biology (Grades 5-9 )
+Students With Disabilities - Earth Science (Grades 5-9)
+Students With Disabilities - English Language Arts (Grades 5-9 )
+Students With Disabilities - Physics (Grades 7-12 )
+Students With Disabilities - Grades 7-12 - Physics
+Coordinator of Work-Based Learning Programs for Career Awareness Extension
+Coordinator of Work-Based Learning Programs for Career Development Extension
+Human Services & Family Studies Cluster 7-12
+Residential/Commercial Building Maintenance & Remodeling 7-12
+Vehicle Mechanical Repair (Including Heavy Equipment Repair) 7-12
+Physics (Grades 5-9)
+English 7-12
+Students With Disabilites - Spanish 7-12
+American Sign Language 7-12
+Birth through Kindergarten
+Elementary (grades K-6)
+M.G. Language Arts
+M.G. Math
+M.G. Science
+M.G. Social Studies
+Math
+Spec Ed: Adapted Curriculum
+Spec Ed: BED
+Spec Ed: General Curriculum
+Spec Ed: Mentally Disabled
+Health and Physical Ed
+Spec Ed: Hearing Impaired
+Science
+ESL
+Health Occupations Education
+Marketing Education
+Health Specialist
+Spec Ed: Academically Gifted
+Spec Ed: LD
+Spec Ed: Visually Impaired
+Other Second Language
+Composite Science
+Composite Social Science
+Special Education: ID
+Family Consumer Science
+Middle
+Rehabilitation & Human Services
+Adolescence to Young Adult (7-12)
+Early Childhood (P-3)
+Intervention Specialist (K-12)
+Middle Childhood (4-9)
+Multi Age (P-12)
+Career Technical (4-12)
+Early Childhood Intervention Specialist (P-3)
+Adolescence to Young Adult (Grades 7-12)
+Middle Childhood (4-9), Reading (4-9)
+Intervention Specialist (K-12), Mild/Moderate
+Early Childhood (Grades P-3)
+Adolescence to Young Adult (7-12), Integrated Social Studies
+Physical Education/Health/Safety
+Advanced Math
+Elementary Ed
+USHist/OKHist/Gov/Econ
+Instrumental/General Music
+Mild-Moderate Disabilities
+Cherokee
+Agriculture Ed
+World History/Geography
+ Music
+Speech/Drama/Debate
+Business Ed
+Technology Engineering
+Vocal/General Music
+Algebra
+American History
+Analysis
+Business English
+Calculus
+Career Tech Business
+Career Tech Family/Consumer Science
+General Technology Ed
+Geometry
+Marketing Ed
+Middle Level English
+Middle Level Science
+Middle Level Social Studies
+MiddleLevel/Intermediate Math
+Oklahoma History
+Psychology/Sociology
+School Counselor
+Speech and Drama
+US Government
+World History
+russian
+Severe-Profound Multiple Disabilities
+Dear/Hard of Hearing
+Advanced Mathematics
+Basic Mathematics
+General Business
+Integrated Science
+Middle School Social Studies
+Multiple Subjects
+Middle School Language Arts
+Educational Media
+English for Speakers of Other Languages/Bilingual
+Multiple Subjects Self-Contained
+Agriculture Science and Technology
+Physical Education-Adapted
+Visually Impaired
+School Pychologist
+Social studies
+Art PK-12 (1405)
+Biology 7-12 (8405)
+Chemistry 7-12 (8420)
+English  7-12 (3230)
+Environmental Educ  PK-12 (4820)
+Family-Consumer Sci  PK-12 (5600)
+Grades PK-4 (2825)
+Health & Physical Educ PK-12 (4805)
+Latin PK-12 (4030)
+Mathematics 7-12 (6800)
+Music PK-12 (7205)
+Social Studies 7-12 (8875)
+Special Education 7-12 (9227)
+Special Education PK-8 (9226)
+Bus-Computer-Info Tech  PK-12 (1603)
+Citizenship 7-12 (8825)
+Early Childhood  N-3 (2840)
+General Science 7-12 (8450)
+Grades 4-8 (3100) All subjects 4-6, English Language Arts and Reading 7-8
+Grades 4-8 (3100) All subjects 4-6, Mathematics 7-8
+Grades 4-8 (3100) All subjects 4-6, Science 7-8
+Grades 4-8 (3100) All subjects 4-6, Social Studies 7-8
+Library Science PK-12 (6420)
+Speech & Language Impaired PK-12 (9265)
+Reading Specialist PK-12 (7650)
+Spanish PK-12 (4490)
+Special Education PK-12 (9225)
+Communications 7-12 (3200)
+Earth and Space Science 7-12 (8440)
+Elementary K-6 (2810)
+French PK-12 (4410)
+German PK-12 (4420)
+Hearing Impaired PK-12 (9205)
+Physics  7-12 (8470)
+Technology Education PK-12 (6075)
+Italian PK-12 (4430)
+Mid-Level English  6-9 (2850)
+Agriculture  PK-12 (1200)
+Visually Impaired PK-12 (9290)
+Mid-Level Mathematics  6-9 (2860)
+Safety Ed/Driver Ed 7-12 (5215)
+Social Science 7-12 (8865)
+Health PK-12 (4810)
+Arabic PK-12 (4005)
+Chinese PK-12 (4405)
+Mid-Level Science  6-9 (2880)
+Mid-Level Citiz. Ed  6-9 (2870)
+Marketing (Distributive) Ed PK-12 (1666)
+Cooperative Ed. 7-12 (2361)
+Japanese PK-12 (4440)
+ENGLISH TEACHER: K-6 ELEMENTARY SCHOOL
+SPECIAL EDUCATION TEACHER K-12
+TEACHER EARLY EDUCATION: PRESCHOOL LEVEL K-3
+TEACHER EDUCATION: ELEMENTARY LEVEL 4th-6th
+TEACHER OF PHYSICAL EDUCATION K-12
+TEACHER OF SECONDARY EDUCATION (ENGLISH)
+TEACHER OF SECONDARY EDUCATION (SCIENCE GENERAL)
+TEACHER OF SECONDARY EDUCATION (MATHEMATICS)
+TEACHER RESOURCE IN COMPUTER USE
+SPECIAL EDUCATION TEACHER IN EARLY EDUCATION
+TEACHER OF SECONDARY EDUCATION (BIOLOGY)
+TEACHER OF SECONDARY EDUCATION (HISTORY)
+TEACHER OF SECONDARY EDUCATION (CHEMISTRY)
+TEACHER IN FINE ARTS K-12 (GENERAL MUSIC INSTRUMENTAL)
+TEACHER IN FINE ARTS K-12 (GENERAL MUSIC VOCAL)
+TEACHER IN FINE ARTS K-12 (GENERAL MUSIC)
+TEACHER IN FINE ARTS K-12 (VISUAL ARTS)
+TEACHER EDUCATION K-12 SCHOOL HEALTH
+BUSINESS EDUCATION TEACHER (OFFICE SYSTEMS ADM.)
+FOREIGN LANGUAGE TEACHER K-12 (French)
+SPECIAL EDUCATION TEACHER: AUTISM
+TEACHER IN MARKETING
+TEACHER OF EDUCATION FOR FAMILY AND CONSUMER (HOME ECONOMICS)
+TEACHER OF EDUCATION FOR FAMILY AND CONSUMER IN SPECIAL EDUCATION (HOME ECONOMICS)
+TEACHER OF SECONDARY EDUCATION (ENVIRONMENTAL SCIENCES)
+BILINGUAL TEACHER EDUCATION K-12
+TEACHER BUSINESS EDUCATION IN SPECIAL EDUCATION
+TEACHER OF SECONDARY EDUCATION (SPANISH)
+SPECIAL EDUCATION TEACHER: VISUALLY IMPAIRED
+TEACHER OF SECONDARY EDUCATION (PHYSICS)
+TEACHER OF SECONDARY EDUCATION (SOCIAL SCIENCE)
+MAESTRO(A) EDUCACION COMERCIAL (CONTABILIDAD)
+ADAPTED PHYSICAL EDUCATION TEACHER K-12
+TEACHER OF SECONDARY EDUCATION (EARTH SCIENCE)
+AGRICULTURAL EDUCATION TEACHER (NO) OCCUPATIONAL
+MASTER OF EARLY EDUCATION: PRESCHOOL LEVEL K-3
+OCCUPATIONAL AGRICULTURAL EDUCATION TEACHER (ORNAMENTAL HORTICULTURE)
+TEACHER BUSINESS EDUCATION
+TEACHER EDUCATION BUSINESS (ACCOUNTING)
+TEACHER EDUCATION TRADE (OFFICE SYSTEMS ADMINISTRATION)
+TEACHER OF SECONDARY EDUCATION (GENERAL SCIENCE)
+TEACHER EDUCATION FOR FAMILY AND CONSUMER - OCCUPATIONAL
+TEACHER EDUCATION INDUSTRIAL (BUILDING MAINTENANCE AND REPAIR)
+INDUSTRIAL EDUCATION TEACHER (CAR MECHANIC)
+INDUSTRIAL EDUCATION TEACHER (COSMETOLOGY)
+INDUSTRIAL EDUCATION TEACHER (HAIR DRESSING & STYLING)
+SPECIAL EDUCATION TEACHER: DEAF AND PARCIAL DEAF STUDENT
+TEACHER EDUCATION FOR FAMILY AND CONSUMER (PASTRY)
+TEACHER IN EARLY EDUCATION TECHNOLOGY (INDUSTRIAL ARTS)
+TEACHER IN FINE ARTS K-12 (BALLET)
+TEACHER IN FINE ARTS K-12 (DANCE: MOVEMENT AND BODY EXPRESSION)
+TEACHER IN FINE ARTS K-12 (THEATHER)
+INDUSTRIAL EDUCATION TEACHER (CABINETMAKING)
+INDUSTRIAL EDUCATION TEACHER (CARPENTRY)
+INDUSTRIAL EDUCATION TEACHER (ELECTRICITY)
+INDUSTRIAL EDUCATION TEACHER (MECHANICAL HANDTOOL)
+Elementary Education Teacher, Grades 1-6
+Secondary Grades Biology Teacher, Grades 7-12
+Secondary Grades Chemistry Teacher, Grades 7-12
+Secondary Grades English Teacher, Grades 7-12
+Secondary Grades Physics Teacher, Grades 7-12
+Secondary Grades Social Studies Teacher, Grades 7-12
+Secondary Grades Mathematics Teacher, Grades 7-12
+Business Education Teacher
+Special Education Teacher
+All Grades Music Teacher, Grades PK-12
+Elementary/Middle Special Education Teacher, Grades K-8
+Secondary Grades World Language Teacher, Grades 7-12 - Spanish
+All Grades Adapted Physical Education Teacher, Grades PK-12
+All Grades Art Teacher, Grades PK-12
+All Grades Health Teacher, Grades PK-12
+All Grades Physical Education Teacher, Grades PK-12
+All Grades Special Education - Severe Intellectual Disability Teacher
+All Grades Technology Education Teacher, Grades PK-12
+Early Childhood Education Teacher, Grades PK-2
+Early Childhood Special Education Teacher, Birth Through Grade 2
+Middle/Secondary Special Education Teacher, Grades 7-12
+Secondary Grades General Science Teacher, Grades 7-12
+Secondary Grades World Language Teacher, Grades 7-12 - Chinese
+Secondary Grades World Language Teacher, Grades 7-12 - French
+Secondary Grades World Language Teacher, Grades 7-12 -Italian
+Business/Marketing/Computer Technology
+Sp. Ed. - Emotionally Disabled
+Sp. Ed. - Multi-Categorical
+Music Ed. - Choral
+Sp. Ed. - Learning Disabilities
+Middle Level Language Arts
+Middle Level Mathematics
+Music Ed. - Instrumental
+Music Ed. - Voice
+Sp. Ed. - Intellectual Disabilities
+Sp. Ed. - Mental Disabilities
+Sp. Ed. - Deafness and Hearing Impairment
+Music Ed. - Violin
+Speech - Language Therapist
+Literacy Coach
+Literacy Teacher
+Sp. Ed. - Severe Disabilities
+Elementary Certification
+K-12 Certification
+Secondary Certification
+Special Education Certification
+Economics 7-12
+Geography 7-12
+Health and Wellness K-12
+History 7-12
+Instrumental/General Music K-12
+Middle Grades Education 4-8
+Special Education Comprehensive K-12
+Special Education Modified K-12
+Visual Arts K-12
+Vocal/General Music K-12
+Early Childhood Ed PreK-3
+Psychology 9-12
+Theatre K-12
+English as a Second Language PreK-12
+Family & Consumer Sci 6-12
+Government 7-12
+Spanish PreK-12
+Speech Language Teacher
+School Counselor PreK-12
+Chinese PreK-12
+Gifted Education PK-12
+Business Technology 7-12
+Other Foreign Language PreK-12
+Special Education Early Childhood PreK-3
+Special Education Vision PreK-12
+Bible
+Early Child Care Services 9-12
+Food Prod & Mgmt Serv 6-12
+Marketing education 7-12
+Library Information Specialist PreK-12
+French PreK-12
+Speech Communication 7-12
+Russian PreK-12
+Sociology 9-12
+Early Dev/Learning PreK-K
+Special Education Hearing PreK-12
+Dance K-12
+English Language Arts and Reading 8-12
+Generalist 4-8
+Generalist EC-6
+Mathematics 8-12
+Social Studies 8-12
+Special Education EC-12
+American Sign Language EC-12
+Art EC-12
+Business Education 6-12
+English Language Arts and Reading 4-8
+English Language Arts and Reading/Social Studies 4-8
+English as a Second Language Supplemental NA
+Health EC-12
+Health Science Technology Education 8-12
+History 8-12
+Languages Other Than English - Spanish EC-12
+Life Sciences 8-12
+Mathematics 4-8
+Mathematics/Science 4-8
+Physical Education EC-12
+Science 4-8
+Speech 7-12
+Theatre EC-12
+Bilingual Education Supplemental-Spanish NA
+Dance 8-12
+Deaf and Hard of Hearing EC-12
+Music EC-12
+Physical Science 8-12
+Science 8-12
+Social Studies 4-8
+Technology Applications EC-12
+Agricultural Science and Technology 6-12
+Bilingual Generalist-Spanish EC-6
+Chemistry 8-12
+Computer Science 8-12
+English Language Arts and Reading 7-12
+English as a Second Language Generalist 4-8
+English as a Second Language Generalist EC-6
+Family and Consumer Sciences 6-12
+Journalism 8-12
+Languages Other Than English - French EC-12
+Languages Other Than English - German EC-12
+Languages Other Than English - Latin EC-12
+Languages Other Than English - Mandarin Chinese EC-12
+Life Science 7-12
+Marketing Education 8-12
+Physical Science/Mathematics/Engineering 8-12
+Physics/Mathematics 8-12
+Science 7-12
+Special Education Supplemental NA
+Technology Applications 8-12
+Technology Education 6-12
+Trade and Industrial Education 8-12
+Languages Other Than English - Japanese EC-12
+Bilingual Education Supplemental-Mandarin Chinese NA
+Gifted and Talented Supplemental NA
+Human Development and Family Studies 8-12
+Languages Other Than English - Arabic EC-12
+Speech 8-12
+Generalist EC-4
+Bilingual Generalist-Spanish 4-8
+Hospitality, Nutrition and Food Sciences 8-12
+Driver Education 6-12
+Teacher of Students with Visual Impairments EC-12
+Secondary Secretarial Business 6-12
+Vocational Agriculture Production 6-12
+Physical Science 6-12
+Secondary Spanish 6-12
+Bilingual Generalist-Spanish EC-4
+Early Childhood Education (K-3)
+Secondary Education (6-12)
+Special Education (K-12+)
+Preschool Special Education (Birth - age 5)
+Social Studie
+Middle Grades--Social Studies
+Special Educator
+English as a Second Langauge
+French-Modern and Classical Language
+Middle Grades--Science
+Middle Grades--English Language Arts
+Spanish--Modern and Classical Language
+Elementary Education PreK-6
+Health and Physical Educ. PreK-12
+History and Social Sciences
+Visual Arts PreK-12
+Music: Instrumental PreK-12
+Music: Vocal/Choral PreK-12
+Special Ed. - General Curriculum K-12
+English as a Second Lang. PreK-12
+Middle Ed. 6-8: English
+Middle Ed. 6-8: Mathematics
+Latin PreK-12
+Early/Primary Education PreK-3
+Driver Education
+Middle Ed. 6-8: History/Social Science
+Middle Ed. 6-8: Science
+Special Ed. - Adapted Curriculum K-12
+Theatre Arts PreK-12
+Health and Physical Education 8-12
+Dance Arts PreK-12
+Gifted Education
+Mathematics-Algebra 1
+Business and Information Technology
+Art Education PreK-12
+Library Media PreK-12
+Speech-Language Pathologist
+Visual Impairment PreK-12
+German PreK-12
+Hearing Impairment PreK-12
+Speech Communication
+Elementary Education NK-5
+Teacher Education - Bilingual, Multilingual, and Multicultural Education
+Multi-Categorical (LD, BD, MI)
+Early Education
+PreK Education
+Preschool-Special Needs
+Mathematics 5-9
+Mathematics 5-Adult
+Mathematics thru Algebra I
+Oral Communications
+School Librarian/Media
+-Social Studies
+-Spanish
+Autism
+Deaf & Hard of Hearing
+Mentally Impaired-Mild-Moderate
+-Elementary Education
+Wellness (Health  PE)
+MultiCategorical (LD, BD, MI)
+PreschoolSpecial Needs
+Adaptive Education
+Broad Field Language Arts
+Broad Field Social Studies
+Cognitive Disabilities
+Cross Categorical Special Education
+Emotional Disturbance
+Language Arts (Elementary Minor)
+Learning Disabilities
+Political Science
+Regular Education
+Science (Elementary Minor)
+Social Studies (Elem Minor)
+Speech Communications
+Theater
+Bilingual-Bicultural Education
+Broad Field Science
+Environmental Studies
+General Music
+Instructional Library Media Specialist
+Coaching Athletics
+Alternative Education
+Speech and Language Pathology
+Library Media Specialist Non-Renewable
+Family and Consumer Education
+Assistive Technology
+Deaf or Hard of Hearing
+Life and Environmental Science
+Gifted and Talented
+Agriculture 6-12
+Art K-12
+Early Childhood Birth – Age 8
+Early Childhood Preschool Birth – Age 5
+Early Childhood Special Education Birth – Age 5	
+Elementary K-6
+Modern Languages – French 6-12
+Modern Languages – German 6-12	
+Modern Languages – Spanish 6-12
+Science – Biology 6-12
+Science – Chemistry 6-12
+Science – Earth Science 6-12
+Science – Physics 6-12
+Social Studies Comprehensive 6-12
+Trade & Technical 6-12
