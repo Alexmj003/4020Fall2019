@@ -44,9 +44,9 @@ def FilterbyWord(filterWord = None,df1 = None, columnName = None) -> pd.DataFram
     if filter is None:
         raise Exception('Filter parameter not passed')
     if df1 is None:
-        raise Exception('Dataframe paramater not passed')
+        raise Exception('Dataframe parameter not passed')
     if columnName is None:
-        raise Exception('Column name paramater not passed')
+        raise Exception('Column name parameter not passed')
     lister = df1[columnName].tolist()
     unique_list = []
     for x in lister:
@@ -160,6 +160,5 @@ def __main__():
     # work(path='/Users/idky/PycharmProjects/Fall2019/documents/AllStateFiles')
     # KeyWordMaker()
     TransOPPathOperations()
-    KeyWordMaker()
 if __name__ == "__main__":
     __main__()
